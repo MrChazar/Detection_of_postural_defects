@@ -1,0 +1,9 @@
+streamlit==1.40.2
+numpy==1.26.4
+torch==2.4.1
+torchvision==0.19.1
+ultralytics==8.3.31
+yolov5==7.0.14
+pillow==11.0.0
+keras==3.3.3
+tensorflow==2.17.0
