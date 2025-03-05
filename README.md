@@ -1,12 +1,13 @@
 # Detection_of_postural_defects
 
-This project leverages **YOLOv5** and **neural networks** to detect postural defects, specifically **spondylolisthesis** and **scoliosis**. The goal is to provide an semi professional diagnosis of postural issues using computer vision techniques.
+This project leverages **YOLOv5** and **neural networks** to detect postural defects, specifically **spondylolisthesis** and **scoliosis**. The goal is to provide an semi professional diagnosis of postural issues using computer vision techniques. To train my models i use buu dataset https://services.informatics.buu.ac.th/spine/ and https://universe.roboflow.com/anil-mzou3/scoliosis-dgqy2
 
 ## Features
 - **YOLOv5 Integration**: Utilizes the YOLOv5 model for object detection and defect localization.
 - **Neural Networks**: Implements deep learning models for classification and analysis of postural defects.
 - **User-Friendly Interface**: Built with **Streamlit** for an intuitive and interactive user experience.
 - **Docker Support**: Easily deploy and run the application in a containerized environment.
+
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/30ecbae6-e546-45fa-9766-c109873970e0)
