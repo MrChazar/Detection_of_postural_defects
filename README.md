@@ -8,7 +8,11 @@ This project leverages **YOLOv5** and **neural networks** to detect postural def
 - **User-Friendly Interface**: Built with **Streamlit** for an intuitive and interactive user experience.
 - **Docker Support**: Easily deploy and run the application in a containerized environment.
 
----
+## Screenshots
+![image](https://github.com/user-attachments/assets/30ecbae6-e546-45fa-9766-c109873970e0)
+![image](https://github.com/user-attachments/assets/6f1e05c8-95ec-4191-8ac1-1527bf847540)
+
+
 
 ## How to Run the Project
 
